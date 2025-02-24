@@ -1,0 +1,23 @@
+<svg id='Medical_Stetoscope_24' width='24' height='24' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><rect width='24' height='24' stroke='none' fill='#000000' opacity='0'/>
+
+
+<g transform="matrix(0.83 0 0 0.83 12 12)" >
+<g style="" >
+<g transform="matrix(1 0 0 1 -4 -3)" >
+<path style="stroke: rgb(0,0,0); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-8, -9)" d="M 4 2 L 1 2 L 1 9 C 1 12.865993248815554 4.134006751184446 16 8 16 C 11.865993248815554 16 15 12.865993248815554 15 9 L 15 2 L 11 2" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 2 7.5)" >
+<path style="stroke: rgb(0,0,0); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-14, -19.5)" d="M 8 16 L 8 17 C 8 20.31370849898476 10.686291501015239 23 14 23 C 17.31370849898476 23 20 20.31370849898476 20 17" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 8 2)" >
+<circle style="stroke: rgb(0,0,0); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="3" />
+</g>
+<g transform="matrix(1 0 0 1 -7 -10)" >
+<circle style="stroke: rgb(0,0,0); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="1" />
+</g>
+<g transform="matrix(1 0 0 1 -1 -10)" >
+<circle style="stroke: rgb(0,0,0); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="1" />
+</g>
+</g>
+</g>
+</svg>
