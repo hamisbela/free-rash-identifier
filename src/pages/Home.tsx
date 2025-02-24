@@ -4,7 +4,7 @@ import { analyzeImage } from '../lib/gemini';
 import SupportBlock from '../components/SupportBlock';
 
 // Default rash image path
-const DEFAULT_IMAGE = "/images/rash-default.avif";
+const DEFAULT_IMAGE = "/rash-default.avif";
 
 // Default analysis for the rash
 const DEFAULT_ANALYSIS = `1. Preliminary Assessment:
